@@ -51,7 +51,7 @@ voted_for_1, voted_for_2, ... , voted_for_M
 
 ## Установка
 
-- Установите [https://www.docker.com/](Docker)
+- Установите [Docker](https://www.docker.com/)
 - Склонируйте этот репозиторий
 - Перейдите в корневую директорию утилиты
 - Скачайте пакет [КриптоПро CSP 5.0 для Linux (x64, deb)](https://www.cryptopro.ru/products/csp/downloads#latest_csp50r3_linux) и положите файл ```linux-amd64_deb.tgz``` в корневую директорию
